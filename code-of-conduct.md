@@ -27,5 +27,5 @@ never forget that the truly freedom is in the full use of your capabilities
 recognizing yours and others limitations.
 
 This code of conduct is intended to guide the project development and project
-community. For use license, see the `license.md` file in each especific
+community. For use license, see the `license.md` file in each especific project.
 
